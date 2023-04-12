@@ -1,0 +1,24 @@
+{
+  "name": "webpack-react",
+  "version": "1.0.0",
+  "description": "A template for projects that use webpack and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smillerr/webpack-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smillerr/webpack-react/issues"
+  },
+  "homepage": "https://github.com/smillerr/webpack-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
